@@ -3,3 +3,8 @@ void main()
 {
 cout<<"Hello!Welcome to GitHub";
 }
+int a,b,c;
+{
+c=a+b;
+cout<<"Addition is"<<c;
+}
